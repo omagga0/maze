@@ -1,4 +1,4 @@
-//feat Laura Czaja
+//feat Laura Czaja i gwizdek
 #include <iostream>
 #include <random>
 #include "fUnc.hpp"
