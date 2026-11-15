@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bobtheexplorer/bobtheexplorer.vcxproj" Id="da20e4b3-16f3-4611-a392-78c499b95167" />
+</Solution>
